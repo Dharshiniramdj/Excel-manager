@@ -1,6 +1,6 @@
-# 📁 Cloud Excel Manager
+# 📁 Excel Manager
 
-**Cloud Excel Manager** is a professional-grade, web-based platform for secure and efficient manipulation of Excel and CSV datasets. Designed for analysts, data managers, and business users, the application streamlines routine data tasks—without requiring desktop software like Excel.
+**Excel Manager** is a professional-grade, web-based platform for secure and efficient manipulation of Excel and CSV datasets. Designed for analysts, data managers, and business users, the application streamlines routine data tasks—without requiring desktop software like Excel.
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 🔒 Privacy & Usability
 
-All processing occurs in-browser or on secure servers, with no third-party data sharing. Designed to minimize friction and maximize productivity, Cloud Excel Manager is ideal for users who want a simple yet powerful spreadsheet interface in the cloud.
+All processing occurs in-browser or on secure servers, with no third-party data sharing. Designed to minimize friction and maximize productivity, Excel Manager is ideal for users who want a simple yet powerful spreadsheet interface in the cloud.
 
 ---
 
@@ -52,8 +52,8 @@ All processing occurs in-browser or on secure servers, with no third-party data 
 1. Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/cloud-excel-manager.git
-cd cloud-excel-manager
+git clone https://github.com/yourusername/excel-manager.git
+cd excel-manager
 pip install -r requirements.txt
 ```
 
@@ -68,8 +68,8 @@ streamlit run excel_manager.py
 ## 📁 File Structure
 
 ```
-cloud-excel-manager/
-├── bl05OG.py              
+excel-manager/
+├── excel_manager.py              
 ├── requirements.txt        
 ├── README.md              
 ├── LICENSE               
