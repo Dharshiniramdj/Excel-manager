@@ -52,13 +52,15 @@ All processing occurs in-browser or on secure servers, with no third-party data 
 1. Clone the repository and install dependencies:
 
 ```bash
+git clone https://github.com/yourusername/cloud-excel-manager.git
+cd cloud-excel-manager
 pip install -r requirements.txt
 ```
 
-2. Run the app:
+2. Run the app :
 
 ```bash
-streamlit run bl05OG.py
+streamlit run excel_manager.py
 ```
 
 ---
