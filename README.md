@@ -52,15 +52,15 @@ All processing occurs in-browser or on secure servers, with no third-party data 
 1. Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/excel-manager.git
-cd excel-manager
+git clone https://github.com/Dharshiniramdj/Excel-manager.git
+cd bl05OG
 pip install -r requirements.txt
 ```
 
 2. Run the app :
 
 ```bash
-streamlit run excel_manager.py
+streamlit run bl05OG.py
 ```
 
 ---
@@ -69,7 +69,7 @@ streamlit run excel_manager.py
 
 ```
 excel-manager/
-├── excel_manager.py              
+├── bl05OG.py              
 ├── requirements.txt        
 ├── README.md              
 ├── LICENSE               
