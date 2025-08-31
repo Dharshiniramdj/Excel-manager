@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## 💼 Features
 
 - **📂 Multi-file Upload** – Work with multiple `.xlsx` and `.csv` files at once.  
 - **📑 Sheet-aware Navigation** – Select and view sheets from multi-sheet Excel workbooks.  
@@ -36,7 +36,7 @@
 
 ---
 
-## ⚡ Installation
+## 📦 Installation
 
 1. Clone the repository and install dependencies:
 
@@ -67,7 +67,7 @@ excel-manager/
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Tech Stack
 
 - **Framework:** Streamlit  
 - **Data Processing:** Pandas, OpenPyXL  
